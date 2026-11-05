@@ -41,4 +41,4 @@
 # Heart-candy
 Hanya tentang Heart candy saja bukan sc
 
-Hai saya hanya seseorang yang menyukai MLP
+Heart candy adalah kuda yang baik walaupun agak sedikit nakal, dia sangat suka bermain dan menjahili teman-temannya mirip seperti Pinkie Pie usia nya adalah 17th Makanan favorit nya adalah hamburger dan sup wortel.
