@@ -1,4 +1,10 @@
 ![image alt](https://files.catbox.moe/92iphz.jpg)
+<div align="center">
+    <a href="https://youtube.com/c/Nazedev">
+        <img src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Heart+candy;Welcome+to+my+GitHub+😊" alt="Typing SVG" />
+    </a>
+</div>
+
 <p align="center">
   <a href="https://wa.me/6285823709413">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp">
