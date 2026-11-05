@@ -39,6 +39,4 @@
 <p align="center"><a href="https://github.com/ponyndo820"><img src="https://github-readme-stats-tan-two-27.vercel.app/api/top-langs/?username=ponyndo820&theme=chartreuse-dark&layout=compact"></a></p> 
 
 # Heart-candy
-Hanya tentang Heart candy saja bukan sc
-
 Heart candy adalah kuda yang baik walaupun agak sedikit nakal, dia sangat suka bermain dan menjahili teman-temannya mirip seperti Pinkie Pie usia nya adalah 17th Makanan favorit nya adalah hamburger dan sup wortel.
