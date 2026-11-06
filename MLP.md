@@ -15,3 +15,6 @@ Diciptakan oleh Lauren Faust,
 Twilight didasarkan pada mainan unicorn Twilight dari seri mainan My Little Pony pertama. 
 Tim kreatif juga memasukkan kepribadian Twilight ke dalam desainnya, seperti warna ungu dan tanda khasnya. 
 Twilight mendapat pujian karena sifatnya yang mudah dipahami dan kompleksitasnya.
+
+# Applejack
+Applejack digambarkan sebagai kuda poni bumi antropomorfik yang pekerja keras, dapat diandalkan, dan jujur dengan bakat bertani apel dan keterampilan rodeo. Dia bekerja di pertanian keluarganya, Sweet Apple Acres, di Ponyville tempat dia tinggal bersama neneknya Granny Smith, kakak laki-lakinya Big MacIntosh, dan adik perempuannya Apple Bloom . Applejack mewakili Elemen Kejujuran dalam Elemen Harmoni . Dia dicirikan oleh aksen Selatannya , tanda khusus bertema apel , dan topi koboi khasnya , yang jarang dilepasnya. 
