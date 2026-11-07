@@ -35,7 +35,7 @@
 ### Github Stats 🚀
 
 <p align="center"><a href="https://github.com/ponyndo820"><img src="https://github-readme-stats-tan-two-27.vercel.app/api?username=ponyndo820&show_icons=true&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/ponyndo820"><img src="https://streak-stats.demolab.com/?user=ponyndo820&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/ponyndo820"><img src="https://streak-stats.demolab.com/?user=ponyndo820&theme=chartreuse-ping"></a></p>
 <p align="center"><a href="https://github.com/ponyndo820"><img src="https://github-readme-stats-tan-two-27.vercel.app/api/top-langs/?username=ponyndo820&theme=chartreuse-dark&layout=compact"></a></p> 
 
 # Heart-candy
